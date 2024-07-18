@@ -7,7 +7,7 @@
 
 ## Methodology
 
-<img src="https://github.com/ritatsousa/expressionKGplus/blob/main/methodology.png" width="50%"/>
+<img src="https://github.com/ritatsousa/expressionKGplus/blob/main/methodology.png" width="100%"/>
 
 Run the command (please make sure to unzip all the files before using them):
 ```
